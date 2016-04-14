@@ -1,0 +1,32 @@
+{
+  "name": "moment",
+  "main": "moment.js",
+  "ignore": [
+    "**/.*",
+    "benchmarks",
+    "bower_components",
+    "meteor",
+    "node_modules",
+    "scripts",
+    "tasks",
+    "test",
+    "component.json",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "ender.js",
+    "Gruntfile.js",
+    "Moment.js.nuspec",
+    "package.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/BookingBug/moment",
+  "_release": "4bad6df5aa",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4bad6df5aa5b28de43da0b6673466903b039962e"
+  },
+  "_source": "https://github.com/BookingBug/moment.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/BookingBug/moment.git"
+}
