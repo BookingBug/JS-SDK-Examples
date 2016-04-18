@@ -1,5 +1,9 @@
 # Install
 
+`npm install gulp -g`
 `npm install`
+`bower install`
 
-this will run the install script and bower and then after its completed will run gulp
+# Start
+
+`gulp` the site will then be available on http://localhost:8000
